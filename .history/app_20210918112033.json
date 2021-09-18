@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "The ID for vmess/vless and password for trojan.",
-            "value": "39cff166-edda-46bf-8ead-5d517d49251f"
+            "value": "fe919394-f173-4391-aabf-b98c8a499218"
         },
         "DOMAIN": {
             "description": "The Cloudflare worker domain or Heroku app domain used by end user.",
@@ -13,11 +13,11 @@
         },
         "CF_KV_API_TOKEN": {
             "description": "The Cloudflare API token with Workers KV permission.",
-            "value": "epFoCGpJyFq9lHgLqpmEJnqiIFf8GFY1"
+            "value": "YXTcXnhf2uIIa9YoRcc8x0TmI8GdAy4d9jtYJxC4"
         },
         "CF_KV_NAMESPACE_ID": {
             "description": "The Cloudflare KV namespace ID.",
-            "value": "cmLPhGAEz9V3hOZgCpcHvgu4quakIUtq"
+            "value": "4d7b910f88a846329264bf31cc3f5db4"
         }
     },
     "website": "http://heroku-xray.herokuapp.com",
